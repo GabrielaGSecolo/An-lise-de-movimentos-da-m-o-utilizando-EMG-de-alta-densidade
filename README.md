@@ -1,0 +1,2 @@
+# An-lise-de-movimentos-da-m-o-utilizando-EMG-de-alta-densidade
+O projeto Análise de movimentos da mão utilizando EMG de alta densidade está composto de dois notebooks feitos no colab um para abrir os arquivos dos 20 sujeitos em arquivo pickle e salvar esses arquivos no google drive e outro notebook para analisar esses dados através de métricas, plotando gráficos para interpretar melhor a relação das forças e os movimentos realizados.
